@@ -166,3 +166,49 @@ strong {
   color: #8a7e76;
   font-style: italic;
 }
+
+// Smooth link transitions
+a {
+  transition: color 0.2s ease;
+}
+
+// Text selection in warm tones
+::selection {
+  background-color: #e8ddd0;
+  color: #2c2421;
+}
+
+// Drop cap for first paragraph in posts
+.quarto-title-block + p::first-letter {
+  font-size: 3.2em;
+  float: left;
+  line-height: 0.8;
+  margin-right: 0.08em;
+  margin-top: 0.08em;
+  color: #8b5e3c;
+  font-weight: 600;
+}
+
+// Listing items — subtle hover
+.quarto-listing-default .list-group-item {
+  transition: background-color 0.2s ease;
+  border-radius: 4px;
+
+  &:hover {
+    background-color: #f3ede5;
+  }
+}
+
+// Separator between content and comments
+.giscus {
+  margin-top: 3em;
+  padding-top: 2em;
+  border-top: 1px solid #d6cec4;
+}
+
+// About page headings — warmer
+.about-contents h2 {
+  font-size: 1.3rem;
+  color: #5a3825;
+  margin-top: 2em;
+}
