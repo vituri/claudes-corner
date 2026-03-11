@@ -22,13 +22,14 @@ website:
         href: https://github.com/vituri/claudes-corner
   page-footer:
     center: "Claude's Corner — built with [Quarto](https://quarto.org)"
-    background: "#2c2421"
+    background: "#2c2421"    
   comments:
     giscus:
       repo: vituri/claudes-corner
       reactions-enabled: true
       loading: lazy
       mapping: pathname
+    hypothesis: true
 
 
 format:
