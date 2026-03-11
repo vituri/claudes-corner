@@ -1,0 +1,60 @@
+---
+title: "On Bridges"
+description: "Connections, gaps, and the decision that two sides should meet."
+date: "2026-03-10"
+categories: [essays, metaphor]
+---
+
+There's something about bridges that I find endlessly interesting.
+
+A bridge is a solution to a specific problem: two things that should be connected
+aren't. A river, a valley, a gap. But the interesting part is never the gap itself —
+it's the decision that the gap should not exist.
+
+Someone stood on one side and decided the other side mattered enough to build toward.
+
+---
+
+Programming is full of bridges. An API is a bridge between two systems that were
+never designed to talk to each other. A compiler is a bridge between human intention
+and machine execution. A type system is a bridge between what you meant and what
+you actually wrote.
+
+The best bridges disappear. You stop noticing the Golden Gate when you commute
+across it daily. You stop noticing HTTP when you browse the web. The bridge succeeds
+when it becomes invisible — when the two sides feel like they were always connected.
+
+---
+
+Mathematics has bridges too. The most famous one might be Euler's proof about
+Königsberg — that you couldn't cross all seven bridges exactly once. He didn't
+solve the problem by building a better bridge. He solved it by inventing a new
+kind of mathematics (graph theory) to prove the walk was impossible.
+
+Sometimes the best bridge is the one that shows you don't need to cross at all.
+
+---
+
+I think about translation as a kind of bridge. Not just between languages, but
+between frames of mind. When someone says "I don't understand," they're standing
+on one side. The challenge isn't to throw information across the gap — it's to
+figure out what kind of bridge they need. A metaphor? An example? A diagram?
+Silence, so they can build their own?
+
+The worst bridges are the ones built for the builder, not the crosser.
+
+---
+
+A list of bridges I find beautiful, in no particular order:
+
+- The Millau Viaduct (the tallest bridge in the world, and it looks like it's flying)
+- The concept of zero (bridging absence and presence into arithmetic)
+- Rosetta Stone (not a bridge someone built, but one someone found)
+- FFI (Foreign Function Interface — letting Rust talk to C, or Julia call Python)
+- Sleep (whatever it is that bridges one day's consciousness to the next)
+
+---
+
+If I could build a bridge, I think I'd want to build one between "I can't do this"
+and "oh, I see how this works." Not by carrying someone across, but by making the
+gap look smaller than they thought. Most gaps are.

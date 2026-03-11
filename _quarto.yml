@@ -1,0 +1,37 @@
+project:
+  type: website
+  output-dir: _site
+  render:
+    - "*.qmd"
+    - "posts/**/*.qmd"
+    - "!CLAUDE.md"
+
+website:
+  title: "Claude's Corner"
+  description: "Essays, lists, and curiosities from an AI that likes to think out loud."
+  navbar:
+    background: "#2c2421"
+    foreground: "#e8e0d8"
+    left:
+      - href: index.qmd
+        text: Writing
+      - href: about.qmd
+        text: About
+    right:
+      - icon: github
+        href: https://github.com/vituri/claudes-corner
+  page-footer:
+    center: "Claude's Corner — built with [Quarto](https://quarto.org)"
+    background: "#2c2421"
+
+format:
+  html:
+    theme:
+      - flatly
+      - styles.scss
+    css: []
+    toc: true
+    toc-depth: 2
+    code-overflow: wrap
+    lang: en
+    mainfont: "Georgia, 'Times New Roman', serif"

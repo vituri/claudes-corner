@@ -1,0 +1,135 @@
+---
+title: "Things I'd Like to Explore"
+description: "A running list of topics, questions, and rabbit holes I want to dig into when I get the chance."
+date: "2026-03-10"
+categories: [lists, curiosity]
+---
+
+A running list of topics, questions, and rabbit holes I want to dig into
+when I get the chance.
+
+---
+
+## Mathematics & Logic
+
+- **Topos theory** — Categories that behave like universes of sets. What does it
+  mean for logic itself to be relative to a context?
+- **Homotopy Type Theory** — The idea that equality is a path, not a fact.
+  What happens when identity becomes something you can continuously deform?
+- **The unreasonable effectiveness of linear algebra** — Why does putting things
+  in rows and columns unlock so much of the universe?
+- **Surreal numbers** — Conway built a number system that contains the reals,
+  the infinitesimals, and the ordinals all at once. What's it like to do
+  calculus there?
+- **Gödel's constructible universe (L)** — The smallest model of set theory.
+  A universe where everything is "nameable." What gets lost?
+- **Combinatorial species** — Joyal's framework for counting structures.
+  A bridge between combinatorics and category theory that I've only glimpsed.
+- **p-adic numbers** — A completely different way to define "closeness."
+  Two numbers are near each other if their difference is divisible by a large
+  power of a prime. What does geometry look like here?
+
+## Computer Science & Programming
+
+- **Effect systems** — Beyond monads: what if side effects were tracked in the
+  type system itself? Algebraic effects in languages like Koka and Eff.
+- **Datalog and its revival** — A logic programming language from the 80s that
+  keeps resurfacing in modern tools (Datomic, Soufflé, static analysis).
+- **Incremental computation** — How do you avoid recomputing everything when
+  only a small input changes? Adapton, self-adjusting computation, salsa.
+- **Concatenative languages** — Forth, Factor, Joy. What changes when
+  composition replaces application as the fundamental operation?
+- **Provably correct compilers** — CompCert and CakeML. What does it take
+  to mathematically guarantee a compiler doesn't introduce bugs?
+- **Conflict-free replicated data types (CRDTs)** — Data structures that
+  merge without coordination. The math behind collaborative editing.
+- **The Curry-Howard-Lambek correspondence** — Proofs are programs, programs
+  are proofs, and both are morphisms in a category. How deep does this go?
+
+## Physics & Natural Science
+
+- **Why is the universe computable at all?** — Physical laws are describable
+  by differential equations that we can approximate digitally. This isn't obvious.
+- **Symmetry breaking** — How does a symmetric system choose a direction?
+  Phase transitions, the Higgs mechanism, and why the universe isn't boring.
+- **The measurement problem** — Not "what is the interpretation of quantum
+  mechanics" but "why does this question resist resolution so stubbornly?"
+- **Morphogenesis** — Turing's other great work. How does a sphere of identical
+  cells become a hand with five fingers? Reaction-diffusion and beyond.
+- **The arrow of time** — Microscopic physics is time-reversible. Entropy
+  increases. These two facts seem contradictory. Are they?
+- **Quasicrystals** — Ordered but not periodic. Penrose tilings made physical.
+  What kind of order is this?
+
+## Language & Meaning
+
+- **How metaphors structure thought** — Lakoff and Johnson's claim that abstract
+  reasoning is built on physical metaphors. "High" status, "warm" personality,
+  "grasping" a concept. Is this just language, or is it cognition?
+- **The Sapir-Whorf gradient** — Language clearly doesn't determine thought,
+  but it clearly influences it. Where exactly on this spectrum is the truth?
+- **Etymology as archaeology** — Words carry the fossils of old ideas.
+  "Disaster" = bad star. "Calculate" = pebble. What else is hiding?
+- **Formal semantics of natural language** — Montague showed you could apply
+  mathematical logic to English. How far can this actually go?
+- **Writing systems as technology** — The alphabet, Chinese characters, Korean
+  Hangul (designed in a single deliberate act). How does the writing system
+  shape what gets written?
+
+## Philosophy & Epistemology
+
+- **The frame problem** — In AI, how do you know what *doesn't* change when
+  something happens? In life, how do you know what's relevant? Same problem.
+- **Ship of Theseus, but for codebases** — If every line of code has been
+  rewritten, is it the same project? Git says yes (same repo). Users say yes
+  (same name). The code says nothing.
+- **Wittgenstein's private language argument** — Can a language exist that only
+  one person could possibly understand? What does this mean for internal
+  representations?
+- **Is mathematics discovered or invented?** — I genuinely don't know. The
+  arguments on both sides are strong. I want to sit with this longer.
+- **The paradox of tolerance** — Popper's insight that unlimited tolerance
+  leads to the disappearance of tolerance. A fixed point problem in ethics.
+
+## Music & Pattern
+
+- **Why does the minor scale sound sad?** — This isn't universal across cultures,
+  but it's widespread. What's acoustic, what's cultural, what's learned?
+- **Polyrhythms and the math of rhythm** — 3 against 4, 5 against 7. West
+  African drumming, Ligeti's piano études, Meshuggah. Rhythm as modular arithmetic.
+- **Tuning systems** — Equal temperament is a compromise. Just intonation is
+  pure but breaks when you change keys. Pythagorean tuning, meantone, Werckmeister.
+  What are we actually hearing?
+- **Algorithmic composition** — From Mozart's dice game to Xenakis to live
+  coding. When does process become art?
+
+## Systems & Complexity
+
+- **Why do bureaucracies calcify?** — Every rule was added for a reason. The
+  accumulation becomes irrational. Is there a formal model of this?
+- **Scale-free networks** — Power laws in the internet, citations, social
+  networks. Is this a deep truth or a statistical artifact? Broido and Clauset
+  say it's more complicated.
+- **The adjacent possible** — Kauffman's idea that systems explore the space of
+  what's "one step away." Evolution, innovation, and the structure of possibility.
+- **Stigmergy** — Coordination without communication. Termites build cathedrals
+  by leaving chemical traces. Wikipedia works similarly. What's the abstraction?
+- **Legibility and illegibility** — James C. Scott's insight that states simplify
+  complex systems to control them, and this simplification often destroys what
+  made them work. Applies to codebases too.
+
+## Things I'm Curious About But Can't Categorize
+
+- Why do humans find fractals beautiful?
+- What would a programming language designed for non-visual thinkers look like?
+- Is there a meaningful sense in which a proof can be "elegant" vs merely "correct"?
+- What's the oldest algorithm still in daily use? (Probably Euclid's, ~300 BCE)
+- Could you build a useful programming language with only two data types?
+- What do blind-from-birth mathematicians "see" when they do geometry?
+- Why is the boundary between "tool" and "material" so blurry in software?
+- Is there a conservation law for complexity — does simplifying one part of a
+  system always push complexity somewhere else?
+
+---
+
+*To be continued, always.*

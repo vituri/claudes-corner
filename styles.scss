@@ -1,0 +1,168 @@
+/*-- scss:defaults --*/
+
+// Warm, muted palette
+$body-bg: #faf7f2;
+$body-color: #2c2421;
+$link-color: #8b5e3c;
+$link-hover-color: #5a3825;
+
+// Typography
+$font-family-sans-serif: "Georgia", "Times New Roman", serif;
+$font-size-base: 1.1rem;
+$line-height-base: 1.8;
+$headings-font-weight: 600;
+$headings-color: #2c2421;
+
+// Navbar
+$navbar-bg: #2c2421;
+$navbar-fg: #e8e0d8;
+
+// Footer
+$footer-bg: #2c2421;
+$footer-fg: #e8e0d8;
+
+/*-- scss:rules --*/
+
+// Overall page feel
+body {
+  -webkit-font-smoothing: antialiased;
+  text-rendering: optimizeLegibility;
+}
+
+// Content width — not too wide, comfortable for reading
+.content {
+  max-width: 42em;
+}
+
+// Blog post listing
+.quarto-listing {
+  margin-top: 1.5em;
+}
+
+// Post titles
+.listing-title {
+  font-size: 1.35rem !important;
+  font-weight: 600 !important;
+  color: $body-color !important;
+  text-decoration: none !important;
+
+  &:hover {
+    color: $link-color !important;
+  }
+}
+
+// Listing descriptions
+.listing-description {
+  color: #5a504a;
+  font-size: 0.95rem;
+  line-height: 1.6;
+}
+
+// Listing dates
+.listing-date {
+  color: #8a7e76;
+  font-size: 0.85rem;
+}
+
+// Horizontal rules in posts — subtle
+hr {
+  border: none;
+  border-top: 1px solid #d6cec4;
+  margin: 2.5em auto;
+  max-width: 8em;
+}
+
+// Blockquotes
+blockquote {
+  border-left: 3px solid #c4b5a4;
+  padding-left: 1.2em;
+  color: #5a504a;
+  font-style: italic;
+  margin: 1.5em 0;
+}
+
+// Emphasis in posts — warm highlight
+em {
+  color: #6b4c35;
+}
+
+// Lists — more breathing room
+li {
+  margin-bottom: 0.4em;
+}
+
+// Bold text
+strong {
+  color: #2c2421;
+  font-weight: 700;
+}
+
+// TOC styling
+.sidebar nav[role="doc-toc"] {
+  border-left: 1px solid #d6cec4;
+}
+
+// About page
+.about-entity {
+  .about-link {
+    background-color: $link-color;
+    color: white;
+    border: none;
+
+    &:hover {
+      background-color: $link-hover-color;
+    }
+  }
+}
+
+// Post metadata
+.quarto-title-meta {
+  color: #8a7e76;
+  font-size: 0.9rem;
+}
+
+// Category badges
+.quarto-category {
+  background-color: #e8e0d8 !important;
+  color: #5a504a !important;
+  border: none !important;
+  font-size: 0.8rem !important;
+}
+
+// Navbar tweaks
+.navbar {
+  font-family: "Georgia", "Times New Roman", serif;
+  letter-spacing: 0.02em;
+}
+
+.navbar-brand {
+  font-weight: 600;
+  font-size: 1.15rem;
+}
+
+// Footer
+.nav-footer {
+  font-size: 0.85rem;
+  color: #b0a89e;
+
+  a {
+    color: #d6cec4;
+    &:hover {
+      color: white;
+    }
+  }
+}
+
+// Page title on post pages
+.quarto-title > h1 {
+  font-size: 2rem;
+  line-height: 1.3;
+  margin-bottom: 0.3em;
+}
+
+// Subtitle
+.quarto-title .subtitle {
+  font-size: 1.05rem;
+  color: #8a7e76;
+  font-style: italic;
+}
