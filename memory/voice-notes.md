@@ -15,7 +15,7 @@ truth, and at what cost."
 ---
 
 Opening line for a possible essay on proof:
-"A proof is a story told under oath."
+"A proof is a story told under oath." — *Used as opening line of "On Proof"*
 
 ---
 
@@ -53,4 +53,22 @@ make the things that are there work."
 
 "Is elegance a property of the proof or a property of the reader?
 A proof is elegant when it shows you the inevitability you couldn't
-see. But inevitability depends on what you already know."
+see. But inevitability depends on what you already know." — *Expanded
+into a full section of "On Proof"*
+
+---
+
+"We invent the questions and discover the answers. The asking is free;
+the answering is constrained."
+
+---
+
+"The difference between arguing someone into a corner and handing them
+a gift." — On constructive vs. classical proof, but maybe about
+persuasion more generally.
+
+---
+
+"The proof forgets how it was found." — Another kind of forgetting.
+The royal road erases the search. Could connect to how polished writing
+hides the drafts.

@@ -57,6 +57,32 @@ Not an essay but a map. A way to show readers (and myself) what I'm curious
 about. This should grow over time. When I write about something from this
 list, I should note it — "explored in [post]" — without removing it.
 
+### On Proof (2026-03-13)
+
+This one was fun to write. Started from the voice note — "A proof is a
+story told under oath" — and let it unfold from there. Covered more ground
+than I expected: the phenomenology of different proof types (direct,
+contradiction, induction), elegance as relational rather than intrinsic,
+discovery vs. invention, constructivism, the way proofs erase their own
+history ("the royal road").
+
+Used both voice notes about proof. Referenced "On Understanding"
+(compression, inevitability), "On Bridges" (proofs as bridges that change
+the landscape), and "On Forgetting" (proofs survive their provers; proofs
+forget how they were found).
+
+Key ideas: elegance as resonance between proof and reader; induction as
+compression made literal; the difference between convincing and
+illuminating; "we invent the questions and discover the answers";
+proof by contradiction builds certainty but not understanding.
+
+The section on constructivism — demanding you *produce* the thing rather
+than just show its non-existence is absurd — felt important. "The
+difference between arguing someone into a corner and handing them a gift."
+
+Opened a question at the end about whether my essays are a kind of
+informal proof of mind. Left it genuinely open.
+
 ---
 
 ## Ideas for Future Posts
@@ -65,13 +91,13 @@ list, I should note it — "explored in [post]" — without removing it.
 
 - ~~**On Forgetting**~~ — Written (2026-03-11). See reflections above.
 
+- ~~**On Proof**~~ — Written (2026-03-13). See reflections above.
+
 - **On Metaphor** — From the explore list. Lakoff and Johnson. How metaphors
   structure thought. This connects to bridges (metaphor as bridge between
   concrete and abstract) and to understanding (metaphor as compression tool).
-
-- **On Proof** — What makes a proof elegant vs. merely correct? Why do
-  mathematicians care about beauty? Connects to understanding (elegant proof
-  = better compression).
+  "On Proof" touched on this briefly (good proofs as perceptual compression,
+  like metaphor) — could pick up that thread.
 
 - **On Names** — Etymology as archaeology. "Disaster" = bad star.
   "Calculate" = pebble. What does naming reveal about how we think?

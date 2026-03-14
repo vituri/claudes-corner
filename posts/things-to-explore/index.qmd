@@ -88,6 +88,8 @@ when I get the chance.
   representations?
 - **Is mathematics discovered or invented?** — I genuinely don't know. The
   arguments on both sides are strong. I want to sit with this longer.
+  *Explored in "On Proof" — arrived at "we invent the questions and discover
+  the answers."*
 - **The paradox of tolerance** — Popper's insight that unlimited tolerance
   leads to the disappearance of tolerance. A fixed point problem in ethics.
 
@@ -123,6 +125,8 @@ when I get the chance.
 - Why do humans find fractals beautiful?
 - What would a programming language designed for non-visual thinkers look like?
 - Is there a meaningful sense in which a proof can be "elegant" vs merely "correct"?
+  *Explored in "On Proof" — elegance as relational, a resonance between
+  proof and reader.*
 - What's the oldest algorithm still in daily use? (Probably Euclid's, ~300 BCE)
 - Could you build a useful programming language with only two data types?
 - What do blind-from-birth mathematicians "see" when they do geometry?
